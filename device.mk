@@ -5,6 +5,7 @@
 #
 
 TARGET_BOARD_PLATFORM := kona
+TARGET_HAS_FM := true
 TARGET_HAS_FOD := true
 
 # Inherit from sm8250-common
