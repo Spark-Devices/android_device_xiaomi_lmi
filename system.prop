@@ -1,0 +1,11 @@
+# Spark-OS
+ro.spark.device.name=POCO F2 Pro
+ro.spark.group.url=https://t.me/SparkOSCommunity
+ro.spark.maintainer=Lowxorx
+ro.spark.maintainer.username=Lowxorx
+
+# Blur
+ro.launcher.blur.appLaunch=0
+ro.sf.blurs_are_expensive=1
+ro.surface_flinger.supports_background_blur=1 
+
