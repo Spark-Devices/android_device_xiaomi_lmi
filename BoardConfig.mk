@@ -10,6 +10,7 @@ include device/xiaomi/sm8250-common/BoardConfigCommon.mk
 DEVICE_PATH := device/xiaomi/lmi
 
 BUILD_BROKEN_DUP_RULES := true
+BUILD_BROKEN_ENFORCE_SYSPROP_OWNER := true
 
 # Display
 TARGET_SCREEN_DENSITY := 440
